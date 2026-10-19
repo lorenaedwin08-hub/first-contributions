@@ -15,6 +15,7 @@
 -[Jhon Brayan Tineo Tapullima](https://github.com/jhontineot23-png)
 -[Jeyavartha V](https://github.com/jeyavarthaahal-web)
 -[Karveti Geethika](https://github.com/geethikakarveti1-source)
+-[Lorena Immaculate J](https://github.com/lorenaedwin08-hub)
 -[samme3000](https://github.com/samme3000)"First time"
 -[keerthana](https://github.com/keerthana20097234-cell)"This is my first contribution for the project"
 -[Kedar](https://github.com/Kedar-1118)"Hey Hii First open Source contribution from my side"
